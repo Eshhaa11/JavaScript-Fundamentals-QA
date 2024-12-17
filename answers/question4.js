@@ -8,15 +8,14 @@
 
 //Examples
   //var:
-      //var name = "Esha";
-      //name = "Kripa";
+      var name = "Esha";
+      name = "Kripa";
 
   //let:
-      //let age = 18;
-     //age = 19;
+      let age = 18;
+      age = 19;
 
   //const:
-   // const city = "New York";
-   // city = "Los Angeles";      
-
+    const city = "New York";
+    city = "Los Angeles";      
        //(This will throw an error since in const the values cannot be re-assign)
