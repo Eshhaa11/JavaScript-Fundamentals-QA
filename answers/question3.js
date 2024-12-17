@@ -6,4 +6,12 @@
   //2) let
   //3) const    
     
+  var name = "Esha";  //usin var
+
+  let age = 18;  //using let
+
+  const pi = 3.14; //using const
+
+
+
 
